@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/value-app/static/css/main.8d666cee.css",
+    "main.js": "/value-app/static/js/main.382f788a.js",
+    "index.html": "/value-app/index.html",
+    "main.8d666cee.css.map": "/value-app/static/css/main.8d666cee.css.map",
+    "main.382f788a.js.map": "/value-app/static/js/main.382f788a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d666cee.css",
+    "static/js/main.382f788a.js"
+  ]
+}
