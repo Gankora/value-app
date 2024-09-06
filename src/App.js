@@ -61,7 +61,7 @@ function App() {
 				<ul className={styles.list}>
 					{list.map(({ id, value }) => (
 						<li className={styles["list-item"]} key={id}>
-							{value} <DateTimeComponent />
+							{value} <DateTimeComponent {...list} />
 						</li>
 					))}
 				</ul>
